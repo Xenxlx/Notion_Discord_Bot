@@ -1,0 +1,9 @@
+{
+  "name": "Notion_Discord_Bot",
+  "type": "module",
+  "dependencies": {
+    "@notionhq/client": "^5.1.0",
+    "discord-interactions": "^4.3.0",
+    "dotenv": "^17.2.2"
+  }
+}
